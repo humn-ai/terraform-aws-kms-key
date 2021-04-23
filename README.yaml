@@ -61,6 +61,8 @@ include:
 # Contributors to this project
 
 contributors:
+  - name: "Callum Robertson"
+    github: "callumccr"
   - name: "Andriy Knysh"
     github: "aknysh"
   - name: "Erik Osterman"
